@@ -1,4 +1,4 @@
-
+https://www.apple.com/nl/newsroom/2020/11/apple-unleashes-m1/
 
 
 upertino, Californië — Apple heeft vandaag M1 aangekondigd, de krachtigste chip die Apple ooit heeft gemaakt,
