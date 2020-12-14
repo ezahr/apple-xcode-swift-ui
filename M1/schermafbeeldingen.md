@@ -4,7 +4,7 @@
 
 ## option 
 
-## cmd+shift+f5
+## shift+cmd+f5.  mv * /Users/osx/Pictures 
 
 ![tt](..//pictures/macosx11_202012090_00.png)
 ![tt](..//pictures/macosx11_202012090_01.png)
