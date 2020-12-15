@@ -1,4 +1,15 @@
 
+
+## Ehm… Ja. Nog steeds gekke tijden hè? 
+
+Normaal gesproken probeer ik een beetje weg te blijven van het nieuws, ik denk niet dat dit de plek er voor is. 
+
+Maar tegelijkertijd denk ik dat de "harde lockdown", die in Nederland geldt tot 20 januari, moeilijk te negeren is.
+
+
+
+e beste laptop nu lijkt heel veel op jouw iPad-opstelling.    
+
 Ik leef in een klein wereldje, maar best wel magisch.   
 
 
