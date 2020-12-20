@@ -2,6 +2,8 @@
 
 [installation](https://code.visualstudio.com/docs/setup/mac)
 
+[download](https://code.visualstudio.com/docs?dv=osx)
+
 ````
 Visual Studio Code on macOS
 Installation#
