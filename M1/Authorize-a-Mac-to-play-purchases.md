@@ -2,3 +2,6 @@
 
 [You must authorise this computer from the Account menu before you can download previous purchases](https://support.apple.com/guide/tvapp-mac/authorize-a-computer-atv089f1ba6f/mac)
 
+````
+In the Apple TV app  on your Mac, choose Account > Authorizations > Authorize This Computer.
+````
