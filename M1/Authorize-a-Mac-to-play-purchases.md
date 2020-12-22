@@ -5,3 +5,9 @@
 ````
 In the Apple TV app  on your Mac, choose Account > Authorizations > Authorize This Computer.
 ````
+
+![tt](..//picutres/apple_music_00.png)
+![tt](..//picutres/apple_music_01.png)
+![tt](..//picutres/apple_music_02.png)
+![tt](..//picutres/apple_music_03.png)
+![tt](..//picutres/apple_music_04.png)
