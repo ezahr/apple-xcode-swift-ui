@@ -1,6 +1,12 @@
 ## SwiftUI Calculator Lets Build That App
 
-[SwiftUI Calculator - Master Stacking (Ep 1)](https://www.youtube.com/watch?v=ULEFrRSPXFE)
+|ep#|youtube|
+|--|--------------------------------------------|
+|EP 1|[SwiftUI Calculator - Master Stacking (Ep 1)](https://www.youtube.com/watch?v=ULEFrRSPXFE)
+|EP 2|[SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2))](https://www.youtube.com/watch?v=_hY6e_LWmtg)
+
+
+## SwiftUI Calculator - Master Stacking (Ep 1)
 [CalculatorSwiftUI](https://github.com/snt-nbzw/CalculatorSwiftUI)
 
 ````
@@ -189,3 +195,10 @@ Veel leuke dingen die u kunt doen met de stapelbibliotheek van SwiftUI. Laten we
 ---
 
 [CalculatorSwiftUI](https://github.com/snt-nbzw/CalculatorSwiftUI)
+
+## SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2)
+
+
+|2|[SwiftUI Calculator - Master Stacking (Ep 2)](https://www.youtube.com/watch?v=_hY6e_LWmtg)
+
+
