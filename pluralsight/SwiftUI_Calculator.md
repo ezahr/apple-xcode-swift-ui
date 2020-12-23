@@ -4,6 +4,7 @@
 |--|--------------------------------------------|
 |EP 1|[SwiftUI Calculator - Master Stacking (Ep 1)](https://www.youtube.com/watch?v=ULEFrRSPXFE)
 |EP 2|[SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2))](https://www.youtube.com/watch?v=_hY6e_LWmtg)
+[EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)
 
 
 ## SwiftUI Calculator - Master Stacking (Ep 1)
@@ -201,8 +202,18 @@ Veel leuke dingen die u kunt doen met de stapelbibliotheek van SwiftUI. Laten we
 [CalculatorSwiftUI](https://github.com/snt-nbzw/CalculatorSwiftUI)
 
 ## SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2)
+Als u een eindige set gegevens heeft, zoals rekenmachineknoppen, is het een goed idee om deze weer te geven met een opsomming. Ik zal bespreken hoe je deze strategie kunt combineren met Switch / Cases om de knoppen in onze applicatie op te maken. Genieten.
+When you have a finite set of data such as calculator buttons, its a good idea to represent them using an Enumeration.  I'll go over how to combine this strategy with Switch/Cases to layout the buttons in our application.  Enjoy.
 
 
 |2|[SwiftUI Calculator - Master Stacking (Ep 2)](https://www.youtube.com/watch?v=_hY6e_LWmtg)
+
+
+
+## [EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)
+
+[[EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)]()
+
+
 
 
