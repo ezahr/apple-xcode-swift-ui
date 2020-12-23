@@ -194,6 +194,10 @@ Veel leuke dingen die u kunt doen met de stapelbibliotheek van SwiftUI. Laten we
 
 ---
 
+![hello-world-xcode11](..//pictures/xcode11-hello-world_08.png)
+![tt](..//pictures/swiftUICalculator_xcode.png)
+
+
 [CalculatorSwiftUI](https://github.com/snt-nbzw/CalculatorSwiftUI)
 
 ## SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2)
