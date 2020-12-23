@@ -1,5 +1,9 @@
 ## Toetscombinaties op een Mac
 
+
+
+[mac-keyboard-shortcuts](https://www.digitaltrends.com/computing/mac-keyboard-shortcuts/)
+
 [Toetscombinaties op een Mac]|(https://support.apple.com/nl-nl/HT201236)
 
 Door bepaalde combinaties van toetsen in te drukken, kunt u acties uitvoeren waarvoor anders een muis, 
