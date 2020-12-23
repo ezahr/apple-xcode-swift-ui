@@ -2,9 +2,9 @@
 
 |ep#|youtube|
 |--|--------------------------------------------|
-|EP 1|[SwiftUI Calculator - Master Stacking (Ep 1)](https://www.youtube.com/watch?v=ULEFrRSPXFE)
-|EP 2|[SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2))](https://www.youtube.com/watch?v=_hY6e_LWmtg)
-[EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)
+|EP 1|[SwiftUI Calculator - Master Stacking (Ep 1)](https://www.youtube.com/watch?v=ULEFrRSPXFE)|
+|EP 2|[SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2))](https://www.youtube.com/watch?v=_hY6e_LWmtg)|
+[EP 3]|[SwiftUI Reactive Environment Object Application State (Ep 3)](). |
 
 
 ## SwiftUI Calculator - Master Stacking (Ep 1)
@@ -208,7 +208,48 @@ When you have a finite set of data such as calculator buttons, its a good idea t
 
 |2|[SwiftUI Calculator - Master Stacking (Ep 2)](https://www.youtube.com/watch?v=_hY6e_LWmtg)
 
-
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_00.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_01.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_02.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_03.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_04.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_05.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_06.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_07.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_08.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_09.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_10.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_11.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_12.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_13.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_14.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_15.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_16.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_17.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_18.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_19.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_20.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_21.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_22.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_23.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_24.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_25.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_26.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_27.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_28.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_29.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_30.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_31.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_32.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_33.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_34.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_35.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_36.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_37.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_38.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_39.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_40.png)
+![calcbutton](..//pictures/swiftUI_calcbutton_enum_swiches_41.png)
 
 ## [EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)
 
