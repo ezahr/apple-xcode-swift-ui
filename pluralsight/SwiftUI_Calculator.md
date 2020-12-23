@@ -256,5 +256,25 @@ When you have a finite set of data such as calculator buttons, its a good idea t
 [[EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)](https://www.youtube.com/watch?v=gxAl4gpyGwY)
 
 
-
-
+![state](..//pictures/reactive_object_state_00.png)
+![state](..//pictures/reactive_object_state_01.png)
+![state](..//pictures/reactive_object_state_02.png)
+![state](..//pictures/reactive_object_state_03.png)
+![state](..//pictures/reactive_object_state_04.png)
+![state](..//pictures/reactive_object_state_05.png)
+![state](..//pictures/reactive_object_state_06.png)
+![state](..//pictures/reactive_object_state_07.png)
+![state](..//pictures/reactive_object_state_08.png)
+![state](..//pictures/reactive_object_state_09.png)
+![state](..//pictures/reactive_object_state_10.png)
+![state](..//pictures/reactive_object_state_11.png)
+![state](..//pictures/reactive_object_state_12.png)
+![state](..//pictures/reactive_object_state_13.png)
+![state](..//pictures/reactive_object_state_14.png)
+![state](..//pictures/reactive_object_state_15.png)
+![state](..//pictures/reactive_object_state_16.png)
+![state](..//pictures/reactive_object_state_17.png)
+![state](..//pictures/reactive_object_state_18.png)
+![state](..//pictures/reactive_object_state_19.png)
+![state](..//pictures/reactive_object_state_20.png)
+![state](..//pictures/reactive_object_state_21.png)
