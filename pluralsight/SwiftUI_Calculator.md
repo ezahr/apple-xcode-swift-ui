@@ -4,7 +4,7 @@
 |--|--------------------------------------------|
 |EP 1|[SwiftUI Calculator - Master Stacking (Ep 1)](https://www.youtube.com/watch?v=ULEFrRSPXFE)|
 |EP 2|[SwiftUI: CalculatorButtons with Enumeration and Switches (Ep 2))](https://www.youtube.com/watch?v=_hY6e_LWmtg)|
-[EP 3]|[SwiftUI Reactive Environment Object Application State (Ep 3)](). |
+[EP 3]|[SwiftUI Reactive Environment Object Application State (Ep 3)](https://www.youtube.com/watch?v=gxAl4gpyGwY) |
 
 
 ## SwiftUI Calculator - Master Stacking (Ep 1)
@@ -253,7 +253,7 @@ When you have a finite set of data such as calculator buttons, its a good idea t
 
 ## [EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)
 
-[[EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)]()
+[[EP 3]Reactive Environment Object Application State (Ep 3 SwiftUI)](https://www.youtube.com/watch?v=gxAl4gpyGwY)
 
 
 
