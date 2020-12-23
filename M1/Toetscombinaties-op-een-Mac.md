@@ -22,6 +22,12 @@ Mac-menu's en -toetsenborden gebruiken vaak symbolen voor bepaalde toetsen, incl
 |Caps Lock ⇪|
 |Fn|
 
+
+|          |Knippen, kopiëren, plakken en andere algemene toetscombinaties|
+|--------|--------------------------------------------------|
+|⌘ ⌥ D | (auto un) hide dock.|
+
+
 Op een toetsenbord van een Windows-pc gebruikt u de Alt-toets in plaats van Option 
 en de toets met het Windows-logo in plaats van Command.
 Sommige toetsen op bepaalde Apple toetsenborden hebben speciale symbolen en functies, 
