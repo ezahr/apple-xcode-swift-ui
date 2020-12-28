@@ -1,7 +1,11 @@
 # apple-xcode-swift-ui
 
+In juni 2014 presenteerde Apple onverwachts een nieuwe taal op de WWDC-ontwikkelaarsconferentie: Swift. Met taalconstructies zoals sluitingen, generieke gegevens en functioneel programmeren is Swift up-to-date en wordt het behandeld als de programmeertaal van de toekomst. En niet alleen onder Mac OS!
+
 
 [SwiftUI This innovative new way to build user interfaces across all Apple platforms lets you create better apps with less code](https://developer.apple.com/xcode/swiftui/) is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs. With a declarative Swift syntax that’s easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of SwiftUI code is already the most powerful UI code you’ve ever written.
+
+
 
 
 ![Native on All Apple Platforms](.//pictures/Design-Tools.png)
