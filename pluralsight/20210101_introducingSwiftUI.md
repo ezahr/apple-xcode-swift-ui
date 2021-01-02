@@ -12,6 +12,13 @@ Create beautiful, dynamic apps faster than ever before.
 
 
 ## 1 SwiftUI Essentials
+
+| SwiftUI Essentials|duration|
+|------------------------|---------|
+|[Creating and Combining Views]https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) |40min|
+|[Building Lists and Navigation] (https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) |35min|
+|[Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input) |20min|
+
 ## 2 Drawing and Animation
 ## 3 App Design and Layout
 ## 4  Framework Integration
