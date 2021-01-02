@@ -13,13 +13,10 @@ Create beautiful, dynamic apps faster than ever before.
 [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/)
 
 
-SwiftUI biedt weergaven, bedieningselementen en lay-outstructuren voor het aangeven van de gebruikersinterface van uw app. Het raamwerk biedt gebeurtenishandlers voor het leveren van tikken, gebaren en andere soorten invoer aan uw app, en tools om de gegevensstroom te 
-beheren van de modellen van uw app tot aan de weergaven en bedieningselementen die gebruikers zullen zien en gebruiken.
+[overview](https://developer.apple.com/documentation/swiftui)SwiftUI biedt weergaven, bedieningselementen en lay-outstructuren voor het aangeven van de gebruikersinterface van uw app. Het raamwerk biedt gebeurtenishandlers voor het leveren van tikken, gebaren en andere soorten invoer aan uw app, en tools om de gegevensstroom te beheren van de modellen van uw app tot aan de weergaven en bedieningselementen die gebruikers zullen zien en gebruiken.
 Definieer uw app-structuur met behulp van het app-protocol en vul deze met scènes die de weergaven bevatten die de gebruikersinterface 
 van uw app vormen. Maak uw eigen aangepaste weergaven die voldoen aan het View-protocol en stel ze samen met SwiftUI-weergaven 
-voor het weergeven van tekst, afbeeldingen en aangepaste vormen met behulp van stapels, lijsten en meer. 
-Pas krachtige modificatoren toe op ingebouwde weergaven en uw eigen weergaven om hun weergave en interactiviteit 
-aan te passen. Deel code tussen apps op meerdere platforms met weergaven en bedieningselementen die zich aanpassen aan hun context en presentatie.
+voor het weergeven van tekst, afbeeldingen en aangepaste vormen met behulp van stapels, lijsten en meer. Pas krachtige modificatoren toe op ingebouwde weergaven en uw eigen weergaven om hun weergave en interactiviteit aan te passen. Deel code tussen apps op meerdere platforms met weergaven en bedieningselementen die zich aanpassen aan hun context en presentatie.
 
 ![tt](..//pictures/tutorial_swiftUI.png)
 
