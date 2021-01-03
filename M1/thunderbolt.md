@@ -15,3 +15,8 @@ https://www.microsoft.com/en-us/p/thunderbolt-control-center/9n6f0jv38ph1?active
 
 https://www.belkin.com/nl/p/P-F4U098/
 
+
+## Thunderbolt 3™ Dock installation on Windows 10
+When it comes to the installation of Elgato Thunderbolt™ 3 Dock on Windows 10, you need to verify that your computer has a actual Thunderbolt 3 Controller.
+They might be installed by default if all the computer manufacturer chipset drivers have been installed. For others, you might have to visit the actual manufacturer's website and find the drivers for the Thunderbolt 3 Controller, or perhaps a update for the controller. In some cases also a firmware update might be available that can be installed. 
+[The picture below shows the Windows 10 Device Manager with a Thunderbolt Controller present](https://help.elgato.com/hc/en-us/articles/360028241571-Thunderbolt-3-Dock-installation-on-Windows-10).
