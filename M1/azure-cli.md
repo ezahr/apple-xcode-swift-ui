@@ -15,3 +15,14 @@ U kunt de CLI installeren door uw brouwrepository-informatie bij te werken en ve
 ````
 brew update && brew install azure-cli
 ````
+
+![az_cli](..//pictures/azure_cli_00.png)
+![az_cli](..//pictures/azure_cli_01.png)
+![az_cli](..//pictures/azure_cli_02.png)
+![az_cli](..//pictures/azure_cli_03.png)
+![az_cli](..//pictures/azure_cli_04.png)
+![az_cli](..//pictures/azure_cli_05.png)
+![az_cli](..//pictures/azure_cli_06.png)
+![az_cli](..//pictures/azure_cli_07.png)
+![az_cli](..//pictures/azure_cli_08.png)
+![az_cli](..//pictures/azure_cli_09.png)
