@@ -8,8 +8,9 @@ U kunt de CLI installeren door uw brouwrepository-informatie bij te werken en ve
 
 [homebrew homepage](https://docs.brew.sh/Installation.html)
 
-````
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+````/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"````
+
+## brew update && brew install azure-cli
 
 ````
 brew update && brew install azure-cli
