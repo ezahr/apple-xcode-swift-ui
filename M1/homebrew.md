@@ -16,3 +16,7 @@ nano .bash_profile
 ![brew](..//pictures/homebrew_06.png)
 ![brew](..//pictures/homebrew_07.png)
 ![brew](..//pictures/homebrew_08.png)
+
+## 20210118
+
+Warning: /opt/homebrew/bin is not in your PATH.
