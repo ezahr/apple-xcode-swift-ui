@@ -16,3 +16,7 @@ nano .bash_profile
 ![brew](..//pictures/homebrew_06.png)
 ![brew](..//pictures/homebrew_07.png)
 ![brew](..//pictures/homebrew_08.png)
+
+
+## 2021017  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
